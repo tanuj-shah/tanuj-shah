@@ -176,16 +176,19 @@ I'm a **Full Stack Developer** who enjoys turning ideas into clean, scalable, an
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tanuj-shah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuj-shah&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+<!-- Monochrome palette aligned to GitHub's native dark UI: canvas #0D1117, accent #58A6FF, border #30363D, text #C9D1D9 -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tanuj-shah&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="Tanuj Shah's GitHub Stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanuj-shah&layout=compact&langs_count=8&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=tanuj-shah&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanuj-shah&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&hide_border=true&area=true" alt="Contribution Activity Graph" />
+<img src="https://streak-stats.demolab.com?user=tanuj-shah&hide_border=false&border=30363D&stroke=30363D&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&excludeDaysLabel=8B949E" alt="GitHub Streak" />
+
+<br/>
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanuj-shah&custom_title=Contribution%20Activity&bg_color=0D1117&color=C9D1D9&title_color=58A6FF&line=58A6FF&point=58A6FF&area=false&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
 
